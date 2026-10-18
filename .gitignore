@@ -1,0 +1,16 @@
+# Godot 4 .gitignore
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+*.translation
+
+# Executables & Binaries
+Godot.exe
+*.exe
+*.zip
+*.pck
+
+# OS generated
+.DS_Store
+Thumbs.db
